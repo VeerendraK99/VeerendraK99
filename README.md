@@ -40,13 +40,10 @@ I am interested in App development, Big Data and Machine Learning.
 <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
 
 ### Let's Connect 🔗
-<a href="https://www.linkedin.com/in/aditya28sarin/">
+<a href="https://www.linkedin.com/in/veerendra-kumar-kanagala-b50038201/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/AdityaSarin14">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:aditya28sarin@gmail.com">
+<a href="mailto:nani.veeru.9999@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
