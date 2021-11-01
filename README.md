@@ -1,8 +1,53 @@
-## Hey 👋, This is Veerendra Kumar Kanagala
-[![Gmail Badge](https://img.shields.io/badge/-nani.veeru.9999@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nani.veeru.9999@gmail.com)](mailto:nani.veeru.9999@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-veerendrakumarkanagala-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veerendrakumarkanagala/)](https://www.linkedin.com/in/veerendrakumarkanagala/) [![Github Badge](https://img.shields.io/badge/-VeerendraK99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/VeerendraK99/)](https://www.github.com/VeerendraK99/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://veerendrak99.github.io//)](https://veerendrak99.github.io//) <p align='left'>Hi</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=VeerendraK99 alt=VeerendraK99 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=VeerendraK99&show_icons=true&include_all_commits=true)](https://github.com/VeerendraK99/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeerendraK99&layout=compact)](https://github.com/VeerendraK99/github-readme-stats)
+
+
+
+<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://VeerendraK99.github.io">Veerendra!</a></h1>
+
+I am interested in App development, Big Data and Machine Learning. 
+
+
+## ⚡ GitHub Stats
+
+
+
+[![Veerendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeerendraK99)](https://github.com/VeerendraK99/github-readme-stats)
+
+## Languages 
+<span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+
+
+## Development tools and frameworks
+<span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+
+
+## Databases
+<span><img src="https://img.icons8.com/ios/50/000000/mysql-logo.png"/></span>
+<img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+
+## Others
+<span><img src="https://img.icons8.com/color/48/000000/linux.png"/></span>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/arduino.png"/>
+<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png"/>
+
+### Let's Connect 🔗
+<a href="https://www.linkedin.com/in/aditya28sarin/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/AdityaSarin14">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:aditya28sarin@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
