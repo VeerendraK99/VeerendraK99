@@ -14,16 +14,14 @@ I am interested in App development, Big Data and Machine Learning.
 [![Veerendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeerendraK99)](https://github.com/VeerendraK99/github-readme-stats)
 
 ## Languages 
-<span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 
 ## Development tools and frameworks
 <span><img src="https://img.icons8.com/color/48/000000/html-5.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
