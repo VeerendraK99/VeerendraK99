@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://VeerendraK99.github.io">Veerendra!</a></h1>
 
-I am interested in App development, Big Data and Machine Learning. 
+I am interested in Digital Design and RTL Verification. 
 
 
 ## ⚡ GitHub Stats
